@@ -44,11 +44,26 @@
 
   <br>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deniskorbakov&theme=shadow-purple&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deniskorbakovd&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=deniskorbakov&theme=radical)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deniskorbakov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=deniskorbakov&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=deniskorbakov&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deniskorbakov&show_icons=true" />
+</picture>
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deniskorbakovd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deniskorbakov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
