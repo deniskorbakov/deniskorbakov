@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="300"/>
-</div>
-
----
-
 <div align="center">
   <h3>
     :book: About Me
