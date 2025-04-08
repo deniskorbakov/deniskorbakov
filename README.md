@@ -10,8 +10,8 @@ There is also a team of hackathons with which we participate in different areas 
 In the review below you will find information that applies to me:
 
 - [My website](https://deniskorbakov.ru/)
-- [Hackathon team website](https://roaldnefs.com/posts/2024/01/committing-changes-to-a-pull-request-branch-created-from-a-fork/)
-- [My organization by ssh connection manager - client](https://github.com/ssh-connection-manager)
+- [Hackathon team website](https://жыбийрыр.рф/)
+- [My ssh client - connection manager](https://ssh-connection-manager.github.io/docs)
 
 ## My GitHub stats
 <div class="badges-githubstats">
