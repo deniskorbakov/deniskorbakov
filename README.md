@@ -16,7 +16,10 @@ In the review below you will find information that applies to me:
 ## My GitHub stats
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=deniskorbakov&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="170">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deniskorbakov&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="170">
+    <img src="https://raw.githubusercontent.com/deniskorbakov/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/deniskorbakov/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  </p>
+  <p align="center">
+    <img src="https://wakatime.com/badge/user/018b9f7a-8548-4f9d-9ebe-df3058a5bab7.svg">
   </p>
 </div>
