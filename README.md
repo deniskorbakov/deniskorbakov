@@ -1,6 +1,6 @@
 # I'm Denis 
 
-I am a backend developer at [Sixhands](https://www.sixhands.co/) with more than three years of experience in **development**
+I am a backend developer
 
 I have also worked as a systems admin and children's programming tutor
 
