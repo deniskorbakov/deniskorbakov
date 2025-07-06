@@ -13,5 +13,5 @@ In the review below you will find information that applies to me:
 - [Hackathon team website](https://жыбийрыр.рф/)
 
 ### Open source:
-- [SSH client - ecosystem](https://ssh-connection-manager.github.io/docs)
+- [SSH client](https://ssh-connection-manager.github.io/docs)
 - [Laravel template](https://github.com/deniskorbakov/laravel-12-frankenphp-docker)
