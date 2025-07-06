@@ -9,5 +9,9 @@ There is also a team of hackathons with which we participate in different areas 
 ## Blog Posts
 In the review below you will find information that applies to me:
 
+### Sites:
 - [Hackathon team website](https://жыбийрыр.рф/)
-- [My ssh client - connection manager](https://ssh-connection-manager.github.io/docs)
+
+### Open source products:
+- [SSH client - ecosystem](https://ssh-connection-manager.github.io/docs)
+- [Laravel template](https://github.com/deniskorbakov/laravel-12-frankenphp-docker)
