@@ -11,6 +11,8 @@ In the review below you will find information that applies to me:
 
 ### Sites:
 - [Hackathon team website](https://жыбийрыр.рф/)
+- [My publications in English](https://dev.to/deniskorbakov)
+- [My publications in Russian](https://habr.com/ru/users/deniskorbakov9/)
 
 ### Open source:
 - [SSH client](https://ssh-connection-manager.github.io/docs)
