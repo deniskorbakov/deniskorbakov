@@ -10,7 +10,7 @@ There is also a team of hackathons with which we participate in different areas 
 In the review below you will find information that applies to me:
 
 ### Open source:
-- [SSH client](https://ssh-connection-manager.github.io/docs)
+- [SSH client](https://github.com/misha-ssh)
 - [Laravel template](https://github.com/deniskorbakov/laravel-12-frankenphp-docker)
 
 ### Sites:
