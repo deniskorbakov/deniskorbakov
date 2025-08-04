@@ -11,6 +11,8 @@ In the review below you will find information that applies to me:
 
 ### Open source:
 - [SSH client](https://github.com/misha-ssh)
+- [Skeleton PHP](https://github.com/deniskorbakov/skeleton-php-docker)
+- [Scribe Plugin](https://github.com/deniskorbakov/laravel-data-scribe)
 - [Laravel template](https://github.com/deniskorbakov/laravel-12-frankenphp-docker)
 
 ### Sites:
