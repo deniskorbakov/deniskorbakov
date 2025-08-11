@@ -10,12 +10,15 @@ There is also a team of hackathons with which we participate in different areas 
 In the review below you will find information that applies to me:
 
 ### Open source:
-- [SSH client](https://github.com/misha-ssh)
 - [Skeleton PHP](https://github.com/deniskorbakov/skeleton-php-docker)
 - [Scribe Plugin](https://github.com/deniskorbakov/laravel-data-scribe)
-- [Laravel template](https://github.com/deniskorbakov/laravel-12-frankenphp-docker)
+- [FrankenPHP template](https://github.com/deniskorbakov/laravel-12-frankenphp-docker)
+- [SSH client](https://github.com/misha-ssh)
 
+### Publications
+- [Dev](https://dev.to/deniskorbakov)
+- [Medium](https://medium.com/@korbakovd)
+- [Habr](https://habr.com/ru/users/deniskorbakov9/articles)
+  
 ### Sites:
-- [Hackathon team website](https://жыбийрыр.рф/)
-- [My publications in English](https://dev.to/deniskorbakov)
-- [My publications in Russian](https://habr.com/ru/users/deniskorbakov9/)
+- [Hackathon team](https://жыбийрыр.рф/)
